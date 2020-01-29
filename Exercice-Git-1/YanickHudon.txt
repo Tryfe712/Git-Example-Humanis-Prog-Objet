@@ -1,1 +1,3 @@
 Exercice 1 git
+
+Modification du fichier texte exercice apres creation de la branche YH
